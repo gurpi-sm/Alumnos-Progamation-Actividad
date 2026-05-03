@@ -1,2 +1,0 @@
-Pedro,Jimenez,23,DAM,23456678Q
-Paco,Yetz,23,DAM,1
